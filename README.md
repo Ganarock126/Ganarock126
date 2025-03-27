@@ -55,28 +55,8 @@
 
 ---
 
-## 🔥 **Projects (Real-World Applications)**  
 
-| Project Name | Description | Tech Stack |
-|-------------|------------|------------|
-| **Student Management System** | A CRUD application to manage students | Java, Spring Boot, MySQL, REST API |
-| **E-commerce Backend** | REST API for an online shopping platform | Java, Spring Boot, Hibernate, PostgreSQL |
-| **Library Management System** | A simple application to manage books and users | Java, MySQL, Spring Boot |
-| **URL Shortener** | A web app to shorten long URLs | Java, Spring Boot, MongoDB |
 
-🔗 **Check out my projects here:** [GitHub Repositories](https://github.com/your-username)  
-
----
-
-## 📊 **GitHub Stats & Achievements**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your-username GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical" alt="your-username GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="your-username Most Used Languages" />
-</p>
-
----
 
 ## 🌐 **Connect with Me**  
 
@@ -89,8 +69,4 @@
 
 ---
 
-## ☕ **Support My Work**  
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
-</p>
